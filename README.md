@@ -146,4 +146,4 @@ SELECT fn_resumo_pedido(1);
 
 ## 📝 Licença
 
-Projeto de estudo/demonstração. Livre para uso e adaptação.
+Projeto de estudo/demonstração. Livre para uso e adaptação. Feito por Kaick Ramos de Melo Silva
